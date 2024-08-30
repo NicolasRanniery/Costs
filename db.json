@@ -19,8 +19,21 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": []
+      "cost": 1806,
+      "services": [
+        {
+          "name": "Serviço 1",
+          "cost": "128",
+          "description": "Testando 1",
+          "id": "17439610-ad5e-4a7f-8cdc-eac3e499663f"
+        },
+        {
+          "name": "Serviço 2",
+          "cost": "1678",
+          "description": "Testando 2",
+          "id": "189d2d19-8912-49bc-9faf-87e2b6e6ea4e"
+        }
+      ]
     },
     {
       "id": "aaf5",
@@ -43,34 +56,23 @@
       },
       "cost": 0,
       "services": []
-    },
-    {
-      "id": "58ae",
-      "name": "Projeto Teste 5",
-      "budget": "47000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": []
     }
   ],
   "categories": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Infra"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Desenvolvimento"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Design"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Planejamento"
     }
   ]
