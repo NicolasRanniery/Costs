@@ -1,3 +1,13 @@
+# What's this project ?
+
+A CRUD project for managing project costs based on the indicated initial budget, using the React library.
+
+## Technologies Used
+
+- **JavaScript**
+- **HTML**
+- **CSS**
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
